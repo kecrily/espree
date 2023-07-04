@@ -1,5 +1,12 @@
 # Changelog
 
+## [9.6.1](https://github.com/eslint/espree/compare/v9.6.0...v9.6.1) (2023-07-04)
+
+
+### Chores
+
+* switch to eslint flat config ([#577](https://github.com/eslint/espree/issues/577)) ([408eabd](https://github.com/eslint/espree/commit/408eabd6eeae0dbcf5aa1791499fc82e391d8797))
+
 ## [9.6.0](https://github.com/eslint/espree/compare/v9.5.2...v9.6.0) (2023-06-19)
 
 
